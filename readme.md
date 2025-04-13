@@ -2,10 +2,6 @@
 # 🖧 Ex3 TP LINUX
 ---
 
-
-
----
-
 ## 🖥️ On `serverb` (NFS Server)
 
 ### 1. Install NFS server packages
